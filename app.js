@@ -7,7 +7,7 @@
                 result = "モテすぎ";
              } else if (colour ="メガネ" && number === 2) {
                 result = "黒すぎ";
-                     } else if (colour ="メガネ" && number ===0) {
+             } else if (colour ="メガネ" && number ===0) {
                 result = "度なし";
              } else if (colour === "桃" && number === 2) {
                 result = "でかすぎ";
