@@ -1,8 +1,7 @@
         function checkFortune() {
             var colour = document.getElementById('colour-select').value;
             var number = parseInt(document.getElementById('number-input').value, 10);
-            var result = "りょうきち占い"; // デフォルトの値
-
+            var result = 
             if (colour === "白" && number === 0) {
                 result = "はげ";
             } else if (colour ="メガネ" && number === 1) {
