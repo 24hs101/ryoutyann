@@ -1,7 +1,7 @@
         function checkFortune() {
             var colour = document.getElementById('colour-select').value;
             var number = parseInt(document.getElementById('number-input').value, 10);
-            var result = 
+            var result = "りちゃんのこと知りたいでしょ";//デフォルトの値
         
             } else if (colour ="メガネ" && number === 1) {
                 result = "モテすぎ";
